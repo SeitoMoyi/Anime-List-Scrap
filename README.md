@@ -1,2 +1,4 @@
 # Anime-List-Scrap
 Automatic Scrap of Anime List
+data from "https://yuc.wiki/"
+only for 07/22 or more recent months
